@@ -1,6 +1,7 @@
-# Webpack Starter
+# Todos: App Javascript
 
-Éste es el proyecto inicial para aplicaciones unitilizando Webpack.
+Practica, crear una mini-app para registrar tareas.
+Se utiliza webpack, localStorage.
 
 ### Notas: 
 Recuerden reconstruir los módulos de node.
